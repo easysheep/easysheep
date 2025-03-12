@@ -1,4 +1,4 @@
-<img src="https://github.com/easysheep/easysheep/blob/main/nn.png" alt="Banner Image" style="width:100%; height:300px;"/>
+<img src="https://github.com/easysheep/easysheep/blob/main/hor1.png" alt="Banner Image" style="width:100%; height:300px;"/>
 
 
 
