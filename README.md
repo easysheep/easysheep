@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/easysheep/easysheep/blob/main/box.png" alt="Banner Image" />
+  <img src="https://github.com/easysheep/easysheep/blob/main/nn.png" alt="Banner Image" />
 </p>
 
 
