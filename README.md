@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/easysheep/easysheep/blob/main/nn.png" alt="Banner Image" />
-</p>
+<img src="https://github.com/easysheep/easysheep/blob/main/nn.png" alt="Banner Image" style="width:100%; height:auto;"/>
+
 
 
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
